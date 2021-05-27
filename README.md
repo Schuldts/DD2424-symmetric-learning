@@ -1,5 +1,6 @@
 # Symmetric learning for noisy labels
 A comparison of symmetric cross entropy learning versus ordinary cross entropy. Available training datasets: MNIST and Fashion-MNIST. External testing: USPS.
+
 Project by Moa Andersson, Sarah Narrowe Danielsson and Emma Schüldt
 
 ## Running the code
